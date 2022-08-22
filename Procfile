@@ -1,1 +1,1 @@
-web:    java -cp target/classes:target/dependency/* HerokuDemo
+web:    java -cp target/classes:target/dependency/* MercFirstDemo
